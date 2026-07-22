@@ -1,0 +1,44 @@
+<svg width="620" height="270" viewBox="0 0 620 270" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .cat { fill: #7ee787; font-family: 'Cascadia Code', 'Fira Code', 'SFMono-Regular', Consolas, monospace; font-size: 13px; }
+      .label { fill: #7ee787; font-family: 'Cascadia Code', 'Fira Code', 'SFMono-Regular', Consolas, monospace; font-size: 13px; font-weight: bold; }
+      .value { fill: #c9d1d9; font-family: 'Cascadia Code', 'Fira Code', 'SFMono-Regular', Consolas, monospace; font-size: 13px; }
+      .accent { fill: #58a6ff; font-family: 'Cascadia Code', 'Fira Code', 'SFMono-Regular', Consolas, monospace; font-size: 13px; }
+      .title { fill: #e6edf3; font-family: 'Cascadia Code', 'Fira Code', 'SFMono-Regular', Consolas, monospace; font-size: 17px; font-weight: bold; }
+      .dim { fill: #6e7681; font-family: 'Cascadia Code', 'Fira Code', 'SFMono-Regular', Consolas, monospace; font-size: 13px; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="620" height="270" rx="14"/>
+
+  <!-- window dots -->
+  <circle cx="24" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="24" r="6" fill="#27c93f"/>
+
+  <!-- ASCII cat -->
+  <text class="cat" x="30" y="70" xml:space="preserve">
+    <tspan x="30" dy="0">   /\_/\ </tspan>
+    <tspan x="30" dy="16">  ( o.o )</tspan>
+    <tspan x="30" dy="16">   &gt; ^ &lt; </tspan>
+    <tspan x="30" dy="16">  /|   |\ </tspan>
+    <tspan x="30" dy="16"> (_|   |_)</tspan>
+    <tspan x="30" dy="16">   "   "  </tspan>
+  </text>
+
+  <!-- Title -->
+  <text class="title" x="230" y="55">PiPicoX<tspan class="dim">@github</tspan></text>
+  <line x1="230" y1="65" x2="590" y2="65" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Bio lines -->
+  <text x="230" y="92"><tspan class="label">OS: </tspan><tspan class="value">Student Edition 1.0</tspan></text>
+  <text x="230" y="114"><tspan class="label">Kernel: </tspan><tspan class="value">Arch-Linux (btw)</tspan></text>
+  <text x="230" y="136"><tspan class="label">Uptime: </tspan><tspan class="value">seit </tspan><tspan class="accent">git init</tspan><tspan class="value"> 2025</tspan></text>
+  <text x="230" y="158"><tspan class="label">Languages: </tspan><tspan class="accent">Python, Java</tspan></text>
+  <text x="230" y="180"><tspan class="label">Status: </tspan><tspan class="value">Debugging Code &amp; Klausuren</tspan></text>
+  <text x="230" y="202"><tspan class="label">Editor: </tspan><tspan class="value">IntelliJ / VS Code</tspan></text>
+  <text x="230" y="224"><tspan class="label">Interests: </tspan><tspan class="value">Backend, Algorithmen, Kaffee</tspan></text>
+  <text x="230" y="246"><tspan class="label">Contact: </tspan><tspan class="accent">@PiPicoX</tspan></text>
+</svg>
