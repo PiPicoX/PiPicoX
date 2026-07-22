@@ -1,16 +1,32 @@
-## Hi there 👋
+<table>
+<tr>
+<td>
 
-<!--
-**PiPicoX/PiPicoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+    /\_/\
+   ( o.o )
+    > ^ 
+   /|   |\
+  (_|   |_)
+    "   "
+```
 
-Here are some ideas to get you started:
+</td>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**PiPicoX**@github
+-------------------
+**OS:** Student Edition 1.0  
+**Kernel:** Arch-Linux (btw)  
+**Uptime:** seit `git init` 2025  
+**Shell:** zsh  
+**Languages:** `Python`, `Java`  
+**Status:** Debugging Code & Klausuren  
+**Editor:** IntelliJ / VS Code / PyCharm  
+**Interests:** Backend, Algorithmen, Kaffee ☕  
+**Fun Fact:** `sudo apt-get install motivation` schlägt oft fehl  
+**Contact:** [@PiPicoX](https://github.com/PiPicoX)
+
+</td>
+</tr>
+</table>
